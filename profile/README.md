@@ -1,5 +1,7 @@
 # CS 186 Building CS Skills and Community
 
+<img src="https://github.com/usf-cs186-fall2026/.github/blob/a04a6a1efbc520077d3711442e2c6209a76db788/profile/logo.png?raw=true" width="400"/>
+
 This is a fun and engaging course for first-year CS majors to develop core technical skills, launch their professional profiles, and learn about and participate in the CS communities on and off campus.
 
 > **CS 186-01 SpTp: Building CS Skills &amp; Com**  
